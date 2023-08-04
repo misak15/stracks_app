@@ -1,0 +1,17 @@
+{
+  "resourceName": "StrackS",
+  "policyUUID": "b724b559",
+  "bucketName": "stracks-mainuploader",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger8b14b085",
+  "groupAccess": {}
+}
