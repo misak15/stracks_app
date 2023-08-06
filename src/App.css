@@ -12,7 +12,7 @@
   backgroundColor: #16191f;
 }
 
-*This CSS hide the signUp tab*
+This CSS hide the signUp tab
 .amplify-tabs {
   display: none;
 }
